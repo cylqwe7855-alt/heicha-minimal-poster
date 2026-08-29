@@ -1,0 +1,4 @@
+interface:
+  display_name: "喜茶式极简海报提示词"
+  short_description: "把图片或文字主体变成可直接使用的极简治愈系海报提示词"
+  default_prompt: "使用 $heicha-minimal-poster，把我上传的图片或文字主体整理成可直接用于 image2 的极简治愈系海报提示词。"
